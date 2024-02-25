@@ -1,1 +1,2 @@
-Deployed at : https://enginrs.netlify.app/
+Frontend :- React JS
+Backend :- Node JS
